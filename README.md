@@ -1,7 +1,7 @@
 <h1> QuintaApp </h1>
 <i>  Aplicação em ASP.NET MVC </i>
 <br>
-<h2> :tada: Observações <h2>
+<h2> :tada: Observações </h2>
 <p> :books: Esse repositório contém uma atividade solicitada na 7° aula mas que foi desenvolvida durante a série de aulas abaixo:</p>
 <br>
 <h2> :tada: Links das aulas <h2>
