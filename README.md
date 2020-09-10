@@ -3,7 +3,6 @@
 <br>
 <h2> :tada: Observações </h2>
 <p> :books: Esse repositório contém uma atividade solicitada na 7° aula mas que foi desenvolvida durante a série de aulas abaixo:</p>
-<br>
 <h2> :tada: Links das aulas </h2>
 <ul>
   <li><a href="https://youtu.be/YCIiJN_Yzqg" target="_blank"> Primeira </a></li>
